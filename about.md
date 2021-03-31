@@ -8,7 +8,7 @@ I graduated from Vanderbilt University in 2018 with a Bachelor of Arts in Econom
 
 ### More Information
 
-Most recently, I have been very interested in data focused projects in music, including leveraging neural networks models to create song lyrics.
+Most recently, I have been very interested in data focused projects in music, including leveraging neural network models to create song lyrics.
 
 ### Contact me
 
